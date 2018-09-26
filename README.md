@@ -3,6 +3,7 @@
   
   # workshops
   *A historical record of workshops hosted by the Computer Science Club at Sonoma State University*
+  
   [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 </div>
 
